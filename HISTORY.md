@@ -1,3 +1,12 @@
 # History
 
 ## 2017/04/08 Added kuroda-et-al-nlp2017-submitted.pdf
+
+## 2018/04/10 Added data files
+
+data-mapped-classified-unified-protected.xlsx
+
+responses-for-set1-grouped-protected.xlsx
+
+responses-for-set1-ungrouped-protected.xlsx
+
