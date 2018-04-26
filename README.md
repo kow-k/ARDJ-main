@@ -1,8 +1,5 @@
 # Acceptability Rating Database for Japanese (ARDJ) 関連の物置
 
-## sentence-mutators
-文を（突然変異を模して）編集するプログラム (Python スクリプト)
-
 ## data
 得られた反応
 
