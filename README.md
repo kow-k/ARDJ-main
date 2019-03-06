@@ -1,10 +1,10 @@
-# Acceptability Rating Database for Japanese (ARDJ) 関連の物置
+# Products related to Acceptability Rating Database for Japanese (ARDJ) Project
 
 ## data
-得られた反応
+Responses acquired by survey2
 
 ## papers
-発表された論文
+Published papers
 
 ## slides
-口頭発表で使ったスライド
+Slides used for presentations at conferences or meetings
