@@ -1,4 +1,4 @@
-# Products related to Acceptability Rating Database for Japanese (ARDJ) Project
+# Outcomes of Acceptability Rating Database for Japanese (ARDJ) Project, 2016-
 
 ## data
 Responses acquired by survey2
