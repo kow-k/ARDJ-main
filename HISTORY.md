@@ -10,3 +10,11 @@ responses-for-set1-grouped-protected.xlsx
 
 responses-for-set1-ungrouped-protected.xlsx
 
+## 2019/03/DD Added data files
+
+s2u.grN.refined1.tsv.zip
+
+s2u.grN.refined1.collapsed.tsv.zip
+
+s1.grN.refined1.tsv.zip
+
