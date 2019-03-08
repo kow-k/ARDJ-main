@@ -12,10 +12,12 @@ Note [2] is the version in which multiple responses are collapsed into one under
 
 ## Responses from Survey 1
 
-[3] data-mapped-classified-unified-protected.xlsx.zip
+[3] s1.grN.refined1.tsv.zip
 
-[4] responses-for-set1-grouped-protected.xslx.zip
+[4] data-mapped-classified-unified-protected.xlsx.zip
 
-[5] responses-for-set1-ungrouped-protected.xslx.zip
+[5] responses-for-set1-grouped-protected.xslx.zip
 
-Note: If you want to know global S.ID (s001, ..., s200) rather than local S.ID (s1, ... s20), you need to use [5].
+[6] responses-for-set1-ungrouped-protected.xslx.zip
+
+Note: If you want to know global S.ID (s001, ..., s200) rather than local S.ID (s1, ... s20), you need to use [3,5].
