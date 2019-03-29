@@ -1,4 +1,4 @@
-# Data from Acceptability Rating Database for Japanese (ARDJ)
+# Data from Acceptability Rating Database of Japanese (ARDJ)
 
 All files are password-protected. Contact the administrator to access their contents:
 
