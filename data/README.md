@@ -4,9 +4,9 @@ All files are password-protected. Contact the administrator to access their cont
 
 ## Responses from Survey 2 (Phases 1 and 2 unified)
 
-[1] s2u.grN.refined1b.placed.tsv.zip
+[1] s2u.grN.refined1c.placed.tsv.zip
 
-[2] s2u.grN.refined1b.collapsed.placed.tsv.zip
+[2] s2u.grN.refined1c.collapsed.placed.tsv.zip
 
 Note [2] is the version in which multiple responses are collapsed into one under the identity of raters.
 
