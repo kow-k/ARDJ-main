@@ -2,6 +2,7 @@
 
 ## data
 Responses acquired from Survey 1 and Survey 2
+Reaction time series acquired with sentences used in Surveys 1 and 2
 
 ## papers
 Published papers

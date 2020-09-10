@@ -1,5 +1,9 @@
 # History
 
+## 2020/09/10 Added data files:
+
+s1-s2.rt.dux-protected.xlsx.zip
+
 ## 2019/03/14 Added NLP25 slides
 
 ## 2019/03/DD Added data files
