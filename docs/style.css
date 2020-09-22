@@ -1,6 +1,20 @@
+/* Whole document: */
+body{
+	font-family: "Lucida Sans Unicode";
+	font-size: 10pt;
+}
+/* Headers */
+h1{
+	font-size: 14pt;
+}
 
-Default
-{
-   font-family: Utopia;
-   font-size: 13pt;
+/* Headers */
+h2{
+	font-size: 13pt;
+}
+
+
+/* Headers */
+h3,h4,h5,h6{
+	font-size: 12pt;
 }
